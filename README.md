@@ -4,8 +4,6 @@
 
 ### Remarques !!! 
 
-Si vous souhaitez juste consulter le tutoriel, je vous recommande de télécharger le fichier HTML : 
+Tuto disponible au format .html et .ipynb
 
 HTML --- > interpretability ---> clic droit sur "download it" ---> enregistrer sous le lien
-
-Si vous souhaitez refaire le tuto, voir rajouter ou modifier du contenu, le fichier .ipynb est disponible.
